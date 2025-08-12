@@ -1,0 +1,21 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+
+    <style name="Base.Theme.BookWorm" parent="Theme.Material3.DayNight.NoActionBar">
+
+    </style>
+
+    <style name="Theme.BookWorm" parent="Base.Theme.BookWorm">
+        <item name="android:windowSplashScreenBackground">@drawable/gradientbackground</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@null</item>
+        <item name="android:windowSplashScreenAnimationDuration">10</item>
+        <item name="postSplashScreenTheme">@style/Base.Theme.BookWorm</item>
+    </style>
+
+    <style name="Theme.BookWorm.Splash" parent="Base.Theme.BookWorm">
+        <item name="android:windowBackground">@drawable/gradientbackground</item>
+
+    </style>
+
+</resources>

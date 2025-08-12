@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "684754593380",
+    "firebase_url": "https://bookworm-ec1d7-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "bookworm-ec1d7",
+    "storage_bucket": "bookworm-ec1d7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684754593380:android:9c66a3ef2e4381b455e171",
+        "android_client_info": {
+          "package_name": "com.example.bookworm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC860651Om9PoaZQwx6BRa9HAqZN0YuxEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

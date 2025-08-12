@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BookWorm</string>
+
+    <string name="nav_explore">Explore</string>
+    <string name="nav_library">Library</string>
+    <string name="nav_profile">Profile</string>
+
+    <string name="welcome_back">Welcome Back</string>
+    <string name="create_account">Create Account</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+
+    <string name="loading">Loading…</string>
+    <string name="edit_profile">Edit Profile</string>
+
+    <string name="explore_books">Explore Books</string>
+    <string name="my_library">My Library</string>
+    <string name="in_library">In Library</string>
+    <string name="add_to_favorites">Add to Favorites</string>
+    <string name="remove_from_favorites">Remove from Favorites</string>
+    <string name="read_now">Read Now</string>
+
+    <string name="no_books_found">No books found</string>
+    <string name="no_books_in_library">No books in your library</string>
+    <string name="start_building_library">Start building your library by adding books you love</string>
+
+    <string name="reading_interface">Reading Interface</string>
+    <string name="reading_experience_placeholder">The reading experience will be implemented here</string>
+
+    <string name="profile">Profile</string>
+    <string name="your_digital_library">Your Digital Library</string>
+
+    <string name="interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="app_open_ad_unit_id">ca-app-pub-3940256099942544/9257395921</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+</resources>
